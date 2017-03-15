@@ -1,0 +1,1 @@
+ALTER TABLE my_table ADD COLUMN foo VARCHAR(10);
